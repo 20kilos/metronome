@@ -1,4 +1,4 @@
 metronome
 =========
 
-Processing Metronome
+A metronome application written in Processing.
